@@ -16,6 +16,7 @@
 		6A6923D926A767D300F48D97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A6923D726A767D300F48D97 /* LaunchScreen.storyboard */; };
 		6A6923E426A767D300F48D97 /* D2AppProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6923E326A767D300F48D97 /* D2AppProjectTests.swift */; };
 		6A6923EF26A767D300F48D97 /* D2AppProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6923EE26A767D300F48D97 /* D2AppProjectUITests.swift */; };
+		7DAE70A726A9F36E009AE157 /* Sanchez-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7DAE70A626A9F36E009AE157 /* Sanchez-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6A6923EA26A767D300F48D97 /* D2AppProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = D2AppProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A6923EE26A767D300F48D97 /* D2AppProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = D2AppProjectUITests.swift; sourceTree = "<group>"; };
 		6A6923F026A767D300F48D97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DAE70A626A9F36E009AE157 /* Sanchez-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sanchez-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				6A6923CB26A767D000F48D97 /* SceneDelegate.swift */,
 				6A6923CD26A767D000F48D97 /* ViewController.swift */,
 				6A6923CF26A767D000F48D97 /* Main.storyboard */,
+				7DAE70A626A9F36E009AE157 /* Sanchez-Regular.ttf */,
 				6A6923D526A767D300F48D97 /* Assets.xcassets */,
 				6A6923D726A767D300F48D97 /* LaunchScreen.storyboard */,
 				6A6923DA26A767D300F48D97 /* Info.plist */,
@@ -236,6 +239,7 @@
 			files = (
 				6A6923D926A767D300F48D97 /* LaunchScreen.storyboard in Resources */,
 				6A6923D626A767D300F48D97 /* Assets.xcassets in Resources */,
+				7DAE70A726A9F36E009AE157 /* Sanchez-Regular.ttf in Resources */,
 				6A6923D126A767D000F48D97 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
