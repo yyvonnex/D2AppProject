@@ -15,6 +15,7 @@
 		6A6923D926A767D300F48D97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A6923D726A767D300F48D97 /* LaunchScreen.storyboard */; };
 		6A6923E426A767D300F48D97 /* D2AppProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6923E326A767D300F48D97 /* D2AppProjectTests.swift */; };
 		6A6923EF26A767D300F48D97 /* D2AppProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6923EE26A767D300F48D97 /* D2AppProjectUITests.swift */; };
+		711948E726AA819B0020B2A8 /* leaflogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 711948E626AA819A0020B2A8 /* leaflogo.png */; };
 		7DAE70A726A9F36E009AE157 /* Sanchez-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7DAE70A626A9F36E009AE157 /* Sanchez-Regular.ttf */; };
 		7DAE70A926AA07D8009AE157 /* organizationViewController .swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DAE70A826AA07D8009AE157 /* organizationViewController .swift */; };
 		7DAE70AB26AA0CAD009AE157 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DAE70AA26AA0CAC009AE157 /* Assets.xcassets */; };
@@ -58,6 +59,7 @@
 		6A6923EA26A767D300F48D97 /* D2AppProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = D2AppProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A6923EE26A767D300F48D97 /* D2AppProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = D2AppProjectUITests.swift; sourceTree = "<group>"; };
 		6A6923F026A767D300F48D97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		711948E626AA819A0020B2A8 /* leaflogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = leaflogo.png; path = ../../leaflogo.png; sourceTree = "<group>"; };
 		7DAE70A626A9F36E009AE157 /* Sanchez-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sanchez-Regular.ttf"; sourceTree = "<group>"; };
 		7DAE70A826AA07D8009AE157 /* organizationViewController .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "organizationViewController .swift"; sourceTree = "<group>"; };
 		7DAE70AA26AA0CAC009AE157 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				7DAE70B026AA0F1A009AE157 /* Alata-Regular.ttf */,
 				6A6923D726A767D300F48D97 /* LaunchScreen.storyboard */,
 				6A6923DA26A767D300F48D97 /* Info.plist */,
+				711948E626AA819A0020B2A8 /* leaflogo.png */,
 				6A6923D226A767D000F48D97 /* D2AppProject.xcdatamodeld */,
 				7DAE70A826AA07D8009AE157 /* organizationViewController .swift */,
 			);
@@ -256,6 +259,7 @@
 				7DAE70B126AA0F1A009AE157 /* Alata-Regular.ttf in Resources */,
 				7DAE70AD26AA0D46009AE157 /* IntroScriptDemo-Medium.otf in Resources */,
 				6A6923D126A767D000F48D97 /* Main.storyboard in Resources */,
+				711948E726AA819B0020B2A8 /* leaflogo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
