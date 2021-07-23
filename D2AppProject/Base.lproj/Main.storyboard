@@ -148,13 +148,10 @@
                                     <segue destination="BYZ-38-t0r" kind="presentation" modalPresentationStyle="fullScreen" id="pJV-Rc-GRh"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Organizations" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iWk-0g-c25">
-                                <rect key="frame" x="186" y="371" width="106" height="21"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="organization image" translatesAutoresizingMaskIntoConstraints="NO" id="PX9-9J-vST">
+                                <rect key="frame" x="-8" y="74" width="422" height="696"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="h6D-jn-lwi"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -254,7 +251,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="7nu-lL-nIM"/>
+        <segue reference="pJV-Rc-GRh"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="Alternatives" width="1080" height="1920"/>
@@ -264,6 +261,7 @@
         <image name="Organizations" width="1080" height="1080"/>
         <image name="leaf 1" width="509" height="479"/>
         <image name="leaf 2" width="2048" height="2048"/>
+        <image name="organization image" width="443" height="817"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
